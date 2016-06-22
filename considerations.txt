@@ -1,0 +1,9 @@
+    Escolhi a linguagem C pois já havia um certo tempo que eu não a usava e queria verificar se ainda sei usa-la (confesso
+    que tenho uma certa queda por C e C++ e como eu podia escolher o "idioma" dessa vez optei por ela, preferi não
+    usar linguagens de nivel mais alto como python, js ou java. Qualquer duvida estou a disposição.
+
+    Exemplo de execução:
+        gcc main.cpp -o main
+        g++ main.cpp -o main
+
+    Obs.: Não testei em ambiente windows ou Mac.
